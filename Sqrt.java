@@ -1,4 +1,4 @@
-// Sqrt(x) LeetCode Problem (69)
+// Problem : Sqrt(x) LeetCode Problem (69)
 
 class Solution {
     public int mySqrt(int x) {
